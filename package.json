@@ -1,5 +1,5 @@
 {
-  "name": "@hormigasais/lbh-sdk",
+  "name": "lbh-sdk-hormigasais",
   "version": "0.3.0",
   "description": "SDK oficial de referencia del protocolo LBH (Lenguaje Binario HormigasAIS) para JavaScript/Node.js",
   "main": "src/index.js",
