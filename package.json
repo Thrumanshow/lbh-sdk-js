@@ -1,7 +1,7 @@
 {
   "name": "lbh-sdk-hormigasais",
-  "version": "0.3.0",
-  "description": "SDK oficial de referencia del protocolo LBH (Lenguaje Binario HormigasAIS) para JavaScript/Node.js",
+  "version": "0.3.1",
+  "description": "SDK oficial del Protocolo LBH v2.0 para JavaScript/Node.js — HormigasAIS",
   "main": "src/index.js",
   "scripts": {
     "test": "node tests/test_sdk.js"
