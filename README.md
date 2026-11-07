@@ -63,3 +63,11 @@ node tests/test_sdk.js
 Fundador de HormigasAIS — Nodo A16 · San Miguel · El Salvador
 
 CERT::LBH-SDK-JS-V2-CLHQ
+
+## Licencia
+
+Copyright © 2026 Cristhiam Leonardo Hernández Quiñonez (CLHQ).
+
+Este SDK se distribuye bajo la **Mozilla Public License 2.0 (MPL-2.0)**. El texto completo está en [LICENSE](LICENSE) y en <https://www.mozilla.org/MPL/2.0/>.
+
+Los componentes de producción del ecosistema HormigasAIS (nodo maestro, agentes propietarios, gobernanza y motores internos) no forman parte de este repositorio y no se licencian por este medio.
