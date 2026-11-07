@@ -7,7 +7,7 @@ Implementación pública basada en la especificación LBH_SPEC_v2.0.md.
 ## Instalación
 
 ```bash
-npm install @hormigasais/lbh-sdk
+npm install lbh-sdk-hormigasais
 ```
 
 O sin npm:
@@ -18,7 +18,7 @@ git clone https://github.com/Thrumanshow/lbh-sdk-js.git
 ## Uso rápido
 
 ```javascript
-const sdk = require('@hormigasais/lbh-sdk');
+const sdk = require('lbh-sdk-hormigasais');
 
 // Codificar un paquete SEAL
 const frame = sdk.encodePacket(
